@@ -95,7 +95,7 @@ export default function Contact() {
                   <div>
                     <p className="font-body font-medium text-white text-sm mb-1">Phone</p>
                     <a href="tel:+917668861953" className="font-body text-white/60 text-sm hover:text-blush-300 transition-colors">
-                      +91 98765 43210
+                      +91 7668861953
                     </a>
                   </div>
                 </div>
